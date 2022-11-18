@@ -8,7 +8,7 @@ Leibniz-Institut für Medienforschung | Hans-Bredow-Institut (HBI) Hamburg
 
 ## Dokumentation
 
-Eine Dokumentation der Daten und ihrer Erhebung befindet sich in [documentation.pdf](documentation.pdf).
+Eine Dokumentation der Daten und ihrer Erhebung befindet sich in der [Dokumentation.pdf](Dokumentation.pdf).
 
 ## Daten
 
