@@ -7,3 +7,5 @@ Jan-Hinrik Schmidt(\*), Philipp Keßling, Jan Rau, Clara Linnekugel, Jasmina Mor
 Eine Dokumentation der Daten und ihrer Erhebung befindet sich in [documentation.pdf](documentation.pdf).
 
 Die Daten befinden sich in [data.csv](data.csv).
+
+Die gewünschte Zitation in verschiedenen Zitationsstilen findet sich hier: https://osf.io/wn48y/
