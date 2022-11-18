@@ -4,6 +4,6 @@ Jan-Hinrik Schmidt(\*), Philipp Keßling, Jan Rau, Clara Linnekugel, Jasmina Mor
 
 (\*) Korrespondierender Autor: j.schmidt@leibniz-hbi.de
 
-Eine Dokumentation der Daten und ihrer Erhebung befindet sich in [documentation.pdf]
+Eine Dokumentation der Daten und ihrer Erhebung befindet sich in [documentation.pdf](documentation.pdf)
 
-Die Daten befinden sich in [data.csv].
+Die Daten befinden sich in [data.csv](data.csv).
